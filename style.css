@@ -1,6 +1,12 @@
 * {
-    font-family: arial;
+    font-family: 'Schoolbell';
     margin-left: 45px;
+}
+
+html {
+    background-color: rgb(221, 197, 144);
+    background-image: url("./old-parchment-paper.jpg");
+    background-size: cover;
 }
 
 .text {
@@ -10,4 +16,8 @@
 }
 #date {
     padding-right: 90px;
+}
+
+a, img, h1, h2, h3, p, b {
+    margin-left: 0px;
 }

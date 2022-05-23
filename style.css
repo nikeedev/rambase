@@ -1,0 +1,13 @@
+* {
+    font-family: arial;
+    margin-left: 45px;
+}
+
+.text {
+    padding-top: 90px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+}
+#date {
+    padding-right: 90px;
+}
